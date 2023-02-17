@@ -1,5 +1,8 @@
 _repo: Practical-vegetarian-cookery_69812
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69812-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Davis, Kate Buffington
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55432'
     url: http://www.gutenberg.org/2009/agents/55432
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69812#Practical-vegetarian-cookery
 gutenberg_issued: '2023-01-16'
 identifiers:
   gutenberg: '69812'
